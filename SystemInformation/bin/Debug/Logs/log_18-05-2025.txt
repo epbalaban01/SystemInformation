@@ -1,0 +1,11 @@
+18-05-2025 17:16:38 - Uygulama başlatıldı.
+18-05-2025 17:16:49 - Uygulama kapatıldı.
+18-05-2025 17:23:48 - Uygulama başlatıldı.
+18-05-2025 17:23:49 - Yeni sürüm bulundu: 1.0.2, mevcut: 1.0.0.0
+18-05-2025 17:24:03 - Uygulama kapatıldı.
+18-05-2025 17:28:49 - Uygulama başlatıldı.
+18-05-2025 17:28:49 - Yeni sürüm bulundu: 1.0.2, mevcut: 1.0.0.0
+18-05-2025 17:28:54 - Uygulama kapatıldı.
+18-05-2025 17:29:08 - Uygulama başlatıldı.
+18-05-2025 17:29:08 - Yeni sürüm bulundu: 1.0.2, mevcut: 1.0.0.0
+18-05-2025 17:29:12 - Uygulama kapatıldı.

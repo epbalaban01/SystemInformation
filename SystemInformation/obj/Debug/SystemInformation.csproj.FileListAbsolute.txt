@@ -1,0 +1,9 @@
+C:\Users\BALABAN\source\repos\SystemInformation\SystemInformation\bin\Debug\SystemInformation.exe.config
+C:\Users\BALABAN\source\repos\SystemInformation\SystemInformation\bin\Debug\SystemInformation.exe
+C:\Users\BALABAN\source\repos\SystemInformation\SystemInformation\bin\Debug\SystemInformation.pdb
+C:\Users\BALABAN\source\repos\SystemInformation\SystemInformation\obj\Debug\SystemInformation.Form1.resources
+C:\Users\BALABAN\source\repos\SystemInformation\SystemInformation\obj\Debug\SystemInformation.Properties.Resources.resources
+C:\Users\BALABAN\source\repos\SystemInformation\SystemInformation\obj\Debug\SystemInformation.csproj.GenerateResource.cache
+C:\Users\BALABAN\source\repos\SystemInformation\SystemInformation\obj\Debug\SystemInformation.csproj.CoreCompileInputs.cache
+C:\Users\BALABAN\source\repos\SystemInformation\SystemInformation\obj\Debug\SystemInformation.exe
+C:\Users\BALABAN\source\repos\SystemInformation\SystemInformation\obj\Debug\SystemInformation.pdb
